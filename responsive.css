@@ -23,7 +23,6 @@ body, html {
     }
 }
 
-/* 1201px to 1400px */
 @media (min-width: 1201px) and (max-width: 1400px) {
     .name {
         background-position: 0 -625px; 
